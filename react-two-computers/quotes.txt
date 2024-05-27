@@ -1,4 +1,4 @@
 There are 10 types of people in the world: those who understand binary and those who don't.
 Every number system is a base 10 number system.
 To err is human. To blame it on a computer is even more so.
-An SQL query goes into a bar, walks up to two tables, and asks, 'Can I join you?'
+An SQL query goes into a bar, walks up to two tables, and asks, 'Can I join you?'.

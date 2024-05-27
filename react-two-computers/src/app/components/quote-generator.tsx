@@ -7,6 +7,8 @@ export default async function QuoteGenerator() {
   const ranQuote = quotes[Math.floor(Math.random() * quotes.length)]
 
   return (
-    <RevealButton quote={ranQuote} />
+    <RevealButton buttonText={"Reveal"} >
+      <h1 className="text-3xl">{ranQuote}</h1>
+    </RevealButton>
   )
 }
