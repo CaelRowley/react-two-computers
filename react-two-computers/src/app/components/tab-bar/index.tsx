@@ -17,6 +17,7 @@ export function TabBar() {
 
 async function SlowComponent() {
   await new Promise((resolve) => setTimeout(resolve, 5000))
-
+  console.log("Render slow component")
+  
   return <div>B</div>
 }
